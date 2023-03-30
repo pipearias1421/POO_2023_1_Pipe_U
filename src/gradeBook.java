@@ -1,13 +1,8 @@
 
-import java.util.Scanner;
 
 public class gradeBook {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
-		System.out.println();
-
-	}
+	
+	String courseName;
+	String 
 
 }
